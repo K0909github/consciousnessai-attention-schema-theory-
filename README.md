@@ -5,3 +5,6 @@
 GoogleColabでimageclassification.ipynbを開く
 →utils.pyとvision_transfofmer.pyをアップロードする
 →dataフォルダをアップロードする
+
+実行結果
+imageclassificationの実行したfileをアップロードしています
